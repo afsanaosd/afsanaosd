@@ -11,11 +11,12 @@
 ⚡ Fun fact: I love organizing data to make it meaningful and insightful !
 
 🧠 About Me
+
 I’m Afsana Akther Mim, a fresher passionate about Database Management Systems (DBMS), with a focus on Oracle Database. I have practical experience in designing relational databases, writing optimized SQL and PL/SQL queries, and implementing key database components such as views, triggers, and stored procedures.
 I enjoy developing structured, secure, and efficient data systems that solve real-world problems. Currently, I’m expanding my skills in Oracle APEX to create interactive, web-based database applications. My long-term goal is to grow as a Database Developer or Oracle DBA, contributing to data-driven solutions that make meaningful impacts.
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/afsanaakther.tonni) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/afsana akther mim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/afsana-akther-mim) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:afsanamim7249@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/afsanaakther.tonni) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/afsana-akther-mim) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:afsanamim7249@gmail.com) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
