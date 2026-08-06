@@ -210,4 +210,13 @@ Includes
 If you like my work, don't forget to ⭐ my repositories.
 
 </div>
+
 ```
+-------
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/afsanaosd/afsanaosd/output/github-contribution-grid-snake.svg">
+
+</p>
